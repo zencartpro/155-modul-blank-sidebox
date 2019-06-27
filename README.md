@@ -1,5 +1,5 @@
-# 155-modul-blank-sidebox
-Blank Sidebox für Zen Cart 1.5.5 deutsch
+# 156-modul-blank-sidebox
+Blank Sidebox für Zen Cart 1.5.6 und 1.5.5 deutsch
 
 Eine neue Sidebox mit beliebigem Inhalt erstellen.
 Diese Variante der Blank Sidebox definiert die Inhalte nicht im Template sondern in Sprachdateien. 
